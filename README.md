@@ -5,3 +5,20 @@ This was my first on Kaggle and hence, in this kernel, I used Kaggle's Getting S
 
 # Accuracy on testing 
 69.799%
+------
+# <a href="https://www.kaggle.com/ajitesh24" >Kaggle Link</a>
+
+# Feature Description
+* Survival - Survival (0 = No; 1 = Yes)
+* Class - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
+* Name - Name
+* Sex - Sex
+* Age - Age
+* Aibsp - Number of Siblings/Spouses Aboard
+* Arch - Number of Parents/Children Aboard
+* Ticket - Ticket Number
+* Fare - Passenger Fare
+* Cabin - Cabin
+* Embarked - Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+* Boat - Lifeboat (if survived)
+* Body - Body number (if did not survive and body was recovered)
